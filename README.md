@@ -11,7 +11,7 @@ This repository contains a Docker Compose setup for running a PostgreSQL databas
 
 1. Clone this repository.
 2. Ensure Docker and Docker Compose are installed.
-3. Run `docker-compose --file testnet-external-node.yml up -d` to start the services.
+3. Run `docker compose --file testnet-external-node.yml up -d` to start the services.
 4. The services will be up and running as per the configurations defined in the `testnet-external-node.yml` for the testnet.
 
 ## Services
